@@ -46,3 +46,19 @@ But in the case of Classification, the Best-Fit Line is the one where the Distan
 **Question 4: Explain multivariant linear regression using a real-life example.**
 
 ***Answer:*** It is a supervised ML Algorithm which uses multiple data-variables for Analysis. It is similar to Multiple Regression but an extension of it where one dependent variable and many independent variables are used to build the model and predict the output. There are various real-world examples like if we want to predict the price of the house we consider diferent factors like (area, location, no.of rooms, floors, facilitied) independent variables and (price) dependent variable. Then if we want to know the users interest we look into users past history which contains various data-variables and taking that into consideration we come to a conclusion regarding users interest. These are a few examplea but there are many which is difficult to list all of them.
+
+**Question 5: How can we improve the accuracy of a linear regression model?**
+
+***Answer:*** We can increase the acuuracy of the Linear Regression Model by the following ways:
+
+> Data Cleaning (Outlier Removal)
+> Feature Engineering (getting new column from existing data)
+> Feature Selection (selecting required independent variables)
+> Adding more data points
+> Spliiting the Train and Test Dataset Differently.
+> Using Multiple Algorithms
+> Tuning Algorithms (Hyperparameter Tuning)
+> Using Ensemble Methods
+> Using Cross Validation
+
+<hr></hr>
