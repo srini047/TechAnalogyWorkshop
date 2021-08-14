@@ -8,7 +8,7 @@
 
 ### Theory Questions
 
-**What is overfitting and how to avoid it?**
+**Question 1: What is overfitting and how to avoid it?**
 
 ***Answer:*** It is a condition where the model fits and performs very well in Training Data but when it comes to Unseen Data(Testing) it doesn't performs well. It would be a highly biased prediction and we will not be able to get the desired results.
 
