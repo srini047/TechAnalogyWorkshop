@@ -20,11 +20,16 @@ We can avoid overfitting by tuning the hyperparameters, reducing the learning ra
 
 ***Answer:*** 
 
-<ul>*RMSE:*</ul> Root Mean Square Error
+*RMSE:* Root Mean Square Error
 
-<ul>*MSE:*</ul> Mean Squared Error
+*MSE:* Mean Squared Error
 
 They are loss or cost functions whcih are used to estimate the correctness or working of a model. RMSE takes the root of the mean of the squares between the actual and predicted values. Whereas MSE doesn't consider the root function. It is the moat used Loss or cost functions in the ML especially Regression, Classification, etc.
 
 ![image](https://user-images.githubusercontent.com/81156510/129439170-26f62219-327c-4f9a-9cd5-946d40b6fa17.png)
 
+**Question 3: What is Line of best fit?**
+
+***Answer:*** In Regression the Best-Fit line is the one where the sum of distance between the Best-Fit Line and Data Points is minimum is called the Line of Best-Fit. The distance has to be minimum because only then the Loss Functon will reduce and we can have a more better model.
+
+But in the case of Classification, the Best-Fit Line is the one where the Distance between the Best-Fit line and the Data points have to be maximum. The reason is that as the distance increases the Classification becomes easier and we can have a better model and predict correctly if a new data-point enters.
