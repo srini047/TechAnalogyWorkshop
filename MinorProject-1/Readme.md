@@ -19,4 +19,7 @@ We can avoid overfitting by tuning the hyperparameters, reducing the learning ra
 ***Answer:*** 
 
 *RMSE:* Root Mean Square Error
+
 *MSE:* Mean Squared Error
+
+They are loss or cost functions whcih are used to estimate the correctness or working of a model. RMSE takes the root of the mean of the squares between the actual and predicted values. Whereas MSE doesn't consider the root function. It is the moat used Loss or cost functions in the ML especially Regression, Classification, etc.
