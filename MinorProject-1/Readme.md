@@ -52,13 +52,21 @@ But in the case of Classification, the Best-Fit Line is the one where the Distan
 ***Answer:*** We can increase the acuuracy of the Linear Regression Model by the following ways:
 
 > Data Cleaning (Outlier Removal)
+
 > Feature Engineering (getting new column from existing data)
+
 > Feature Selection (selecting required independent variables)
+
 > Adding more data points
+
 > Spliiting the Train and Test Dataset Differently.
+
 > Using Multiple Algorithms
+
 > Tuning Algorithms (Hyperparameter Tuning)
+
 > Using Ensemble Methods
+
 > Using Cross Validation
 
 <hr></hr>
