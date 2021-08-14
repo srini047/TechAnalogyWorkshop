@@ -14,6 +14,8 @@
 
 We can avoid overfitting by tuning the hyperparameters, reducing the learning rate, changing the ratio of train and test data set, tuning the model to a generalised prediction, improving the quality of the dataset by cleaning the dataset and much more ways can helps in reducing Overfitting.
 
+![image](https://user-images.githubusercontent.com/81156510/129439182-9f30f508-29a9-48af-a1d7-53aca9e0960e.png)
+
 **Question 2: What is RMSE and MSE? How can you calculate them?**
 
 ***Answer:*** 
@@ -23,3 +25,6 @@ We can avoid overfitting by tuning the hyperparameters, reducing the learning ra
 *MSE:* Mean Squared Error
 
 They are loss or cost functions whcih are used to estimate the correctness or working of a model. RMSE takes the root of the mean of the squares between the actual and predicted values. Whereas MSE doesn't consider the root function. It is the moat used Loss or cost functions in the ML especially Regression, Classification, etc.
+
+![image](https://user-images.githubusercontent.com/81156510/129439170-26f62219-327c-4f9a-9cd5-946d40b6fa17.png)
+
