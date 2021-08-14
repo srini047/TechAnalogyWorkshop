@@ -34,3 +34,7 @@ They are loss or cost functions whcih are used to estimate the correctness or wo
 ***Answer:*** In Regression the Best-Fit line is the one where the sum of distance between the Best-Fit Line and Data Points is minimum is called the Line of Best-Fit. The distance has to be minimum because only then the Loss Functon will reduce and we can have a more better model.
 
 But in the case of Classification, the Best-Fit Line is the one where the Distance between the Best-Fit line and the Data points have to be maximum. The reason is that as the distance increases the Classification becomes easier and we can have a better model and predict correctly if a new data-point enters.
+
+**Question 4: Explain multivariant linear regression using a real-life example.**
+
+***Answer:*** It is a supervised ML Algorithm which uses multiple data-variables for Analysis. It is similar to Multiple Regression but an extension of it where one dependent variable and many independent variables are used to build the model and predict the output. There are various real-world examples like if we want to predict the price of the house we consider diferent factors like (area, location, no.of rooms, floors, facilitied) independent variables and (price) dependent variable. Then if we want to know the users interest we look into users past history which contains various data-variables and taking that into consideration we come to a conclusion regarding users interest. These are a few examplea but there are many which is difficult to list all of them.
