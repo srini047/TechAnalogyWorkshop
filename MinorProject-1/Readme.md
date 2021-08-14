@@ -1,10 +1,11 @@
-# Code for MinorProject-1
+# MinorProject-1
 
 ## Dataset Link: https://s3.us-west-2.amazonaws.com/public.gamelab.fun/dataset/salary_d
 
 
 ## Reference: https://towardsdatascience.com/machine-learning-simple-linear-regression-with-python-f04ecfdadc13
 
+## Code: https://github.com/srini047/TechAnalogyWorkshop/blob/main/MinorProject-1/project-1.ipynb
 
 ### Theory Questions
 
