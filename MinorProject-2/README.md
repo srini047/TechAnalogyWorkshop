@@ -47,4 +47,10 @@ It is a function that turns a vector of K real values into a vector of K real va
 
 ### Question-5: Why is logistic regression a type of classification technique and not a regression? Name the function it is derived from?
 
-**Answer:** 
+**Answer:** We identify the problem as a classification problem when independent variables are continuous in nature and the dependent variable is in categorical form i.e. in classes like positive class and negative class. It is not a Regression problem because though the independent variables are continuous the outcome of Logistic Regression is best suited for categorical variables and not continuous variables also the regression line doesn’t fit well and the model is very weak. Hence, they are best suited for Classification problems than Regression problems.
+Logistic Regression is derived from the Sigmoid function as discussed in the previous question. Logistic regression is similar to a standard logistic function. Whereas, the logistic function is a Sigmoid function, which takes any real value between zero and one.
+<hr>
+
+## Coding Questions
+
+### Link to Notebook:
