@@ -33,10 +33,10 @@ A Confusion Matrix is a 2D matrix containing data that gives information about a
 ### Question-4: What is the difference between sigmoid and softmax function?
 
 **Answer:**
-*Sigmoid Function:* ![image](https://user-images.githubusercontent.com/81156510/129568194-54ab5d6f-b2c6-421d-932c-d7b73221fb89.png)
+*Sigmoid Function:* ![image](https://user-images.githubusercontent.com/81156510/129568411-adb61161-b2f1-4bb9-afcd-6f22dd10fc4f.png)
 
 It is one of the activation functions used in DL where the predicted Output remains in the range of 0 to 1. It is also called s logistic function or logistic sigmoid function. It can be used both in Regression as well as Classification problems. It has another use as well that it can converge fast as well hence improves the fastness towards Gradient Descent.
 
-*Softmax Function:* ![image](https://user-images.githubusercontent.com/81156510/129568285-df85d04d-e89f-4490-b331-eb9ca57b1e73.png)
+*Softmax Function:* ![image](https://user-images.githubusercontent.com/81156510/129568454-338cd441-ef3c-4ee9-a003-cafdfabbdbcf.png)
 
 It is a function that turns a vector of K real values into a vector of K real values that adds to 1. Input can be in any range either positive, negative, or zero but the softmax converts them to values between 0 and 1, which can be considered as probabilities.
