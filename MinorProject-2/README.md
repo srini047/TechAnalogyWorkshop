@@ -44,3 +44,7 @@ It is one of the activation functions used in DL where the predicted Output rema
 
 It is a function that turns a vector of K real values into a vector of K real values that adds to 1. Input can be in any range either positive, negative, or zero but the softmax converts them to values between 0 and 1, which can be considered as probabilities.
 <hr>
+
+### Question-5: Why is logistic regression a type of classification technique and not a regression? Name the function it is derived from?
+
+**Answer:** 
