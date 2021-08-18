@@ -53,4 +53,5 @@ Logistic Regression is derived from the Sigmoid function as discussed in the pre
 
 ## Coding Questions
 
-### Link to Notebook: 
+### Link to Notebook: https://github.com/srini047/TechAnalogyWorkshop/blob/main/MinorProject-2/Project-2.ipynb
+<hr>
